@@ -1,0 +1,35 @@
+
+.conv{
+    display: flex;
+    justify-content: center;
+    align-items: center;
+    background-color: #fff;
+    width: 80vh;
+    height: 70vh;
+    box-shadow: 2px 3px 0px 1px;
+    margin-left: 300px;
+    margin-top: 50px;
+}
+form{
+    width: 50vh;
+    height: 50vh;
+} 
+form label{
+    margin-bottom: 10px;
+}
+form input{
+    margin-left: 260px;
+    margin-top: 0px;
+}
+form table{
+    margin-top: 10px;
+    padding: 5px;
+}
+form table tr td{
+    padding: 10px;
+}
+button{
+    background: white;
+    width: 80px;
+    height: 80px;
+}
